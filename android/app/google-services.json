@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842650053425",
+    "project_id": "e-mech-bcc08",
+    "storage_bucket": "e-mech-bcc08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842650053425:android:4136701acbaa6a2bd09e10",
+        "android_client_info": {
+          "package_name": "com.example.e_mech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842650053425-s1tu71abbneuriqn049n2n2ov2836a7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbHWF7-rv_TG2Alu2DDkQr95RBf27HlBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842650053425-s1tu71abbneuriqn049n2n2ov2836a7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
